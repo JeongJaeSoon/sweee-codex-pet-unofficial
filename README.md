@@ -5,6 +5,10 @@
 
 This repository contains a Codex-compatible custom pet package generated for personal use. It adapts the feel of freee's official Sweee character into a small pixel-art-adjacent Codex workspace companion.
 
+## Preview
+
+![Sweee Codex pet animation contact sheet](qa/contact-sheet.png)
+
 ## Unofficial Notice
 
 Sweee is an official character of freee. The Sweee character, freee name, and related trademarks or source materials belong to freee.
