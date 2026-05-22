@@ -1,0 +1,962 @@
+{
+  "ok": true,
+  "frames_root": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames",
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16606,
+          "bbox": [
+            5,
+            29,
+            187,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 244
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16607,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 227
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16793,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 218
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16697,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 236
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15784,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 250
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/idle/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16693,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 242
+        }
+      ]
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15921,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23105,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 447
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19410,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18649,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22584,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21500,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 450
+        },
+        {
+          "index": 6,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20036,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 348
+        },
+        {
+          "index": 7,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-right/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17447,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 331
+        }
+      ]
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17447,
+          "bbox": [
+            5,
+            23,
+            187,
+            184
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 331
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20036,
+          "bbox": [
+            5,
+            17,
+            187,
+            191
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 348
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21500,
+          "bbox": [
+            11,
+            5,
+            180,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 450
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 22584,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 429
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18649,
+          "bbox": [
+            5,
+            22,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 276
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19410,
+          "bbox": [
+            5,
+            19,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 390
+        },
+        {
+          "index": 6,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23105,
+          "bbox": [
+            5,
+            12,
+            187,
+            195
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 447
+        },
+        {
+          "index": 7,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running-left/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15921,
+          "bbox": [
+            5,
+            24,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 322
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waving/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16038,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 177
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waving/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16478,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 176
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waving/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13795,
+          "bbox": [
+            5,
+            38,
+            187,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 102
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waving/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16099,
+          "bbox": [
+            5,
+            31,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 153
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/jumping/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13271,
+          "bbox": [
+            5,
+            40,
+            187,
+            168
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 148
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/jumping/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12978,
+          "bbox": [
+            5,
+            38,
+            187,
+            170
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 211
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/jumping/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14671,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 208
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/jumping/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11806,
+          "bbox": [
+            5,
+            44,
+            187,
+            163
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 138
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/jumping/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13555,
+          "bbox": [
+            5,
+            39,
+            187,
+            169
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 193
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19354,
+          "bbox": [
+            5,
+            23,
+            187,
+            185
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19860,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 318
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17942,
+          "bbox": [
+            5,
+            34,
+            187,
+            174
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 285
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10220,
+          "bbox": [
+            5,
+            61,
+            187,
+            147
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 155
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18624,
+          "bbox": [
+            5,
+            29,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 305
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19949,
+          "bbox": [
+            5,
+            22,
+            187,
+            186
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 308
+        },
+        {
+          "index": 6,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 25151,
+          "bbox": [
+            5,
+            6,
+            187,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 385
+        },
+        {
+          "index": 7,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/failed/07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 23405,
+          "bbox": [
+            5,
+            11,
+            187,
+            196
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 362
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17017,
+          "bbox": [
+            5,
+            27,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16047,
+          "bbox": [
+            5,
+            35,
+            187,
+            172
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 226
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17020,
+          "bbox": [
+            5,
+            27,
+            187,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 271
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17251,
+          "bbox": [
+            5,
+            27,
+            187,
+            181
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18560,
+          "bbox": [
+            5,
+            20,
+            187,
+            188
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 300
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/waiting/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16976,
+          "bbox": [
+            5,
+            27,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 311
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 18186,
+          "bbox": [
+            5,
+            28,
+            187,
+            180
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 262
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 21981,
+          "bbox": [
+            5,
+            18,
+            187,
+            190
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 303
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16584,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 210
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 19206,
+          "bbox": [
+            5,
+            25,
+            187,
+            182
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 286
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17577,
+          "bbox": [
+            5,
+            25,
+            187,
+            183
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 309
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/running/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16814,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 207
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16227,
+          "bbox": [
+            5,
+            30,
+            187,
+            178
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 194
+        },
+        {
+          "index": 1,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16327,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 260
+        },
+        {
+          "index": 2,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 15556,
+          "bbox": [
+            5,
+            31,
+            187,
+            176
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 219
+        },
+        {
+          "index": 3,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 17577,
+          "bbox": [
+            5,
+            28,
+            187,
+            179
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 258
+        },
+        {
+          "index": 4,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 20065,
+          "bbox": [
+            5,
+            21,
+            187,
+            187
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 289
+        },
+        {
+          "index": 5,
+          "file": "/Users/jaesoon-jeong/Documents/Codex/2026-05-20/hatch-pet-sweee-pet-codex-repo-2/runs/sweee/frames/review/05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 16016,
+          "bbox": [
+            5,
+            30,
+            187,
+            177
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 213
+        }
+      ]
+    }
+  ]
+}
